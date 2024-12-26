@@ -5,7 +5,6 @@ sudonautilus71@gmail.com
 
 sudonautilus71
 
-8pby43mq8m983nf
 
 - 👋 Hi, I’m @sudonautilus71
 - 👀 I’m interested in ...
