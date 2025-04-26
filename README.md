@@ -18,7 +18,7 @@
 ---
 
 ### 📫 Cómo contactarme
-- ✉️ [Tu correo aquí]
+- ✉️ [sudonautilus71@gmail.com]
 - 🌐 [Tu sitio web o redes sociales si tienes]
 
 ---
@@ -28,11 +28,6 @@
 
 ---
 
-### 🔧 Skills
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![MIDI](https://img.shields.io/badge/MIDI-000000?style=for-the-badge&logo=MIDI&logoColor=white)
-![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-007ACC?style=for-the-badge&logo=protonvpn&logoColor=white)
-![Programación](https://img.shields.io/badge/Programación-FF5722?style=for-the-badge)
 
 ---
 
