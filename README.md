@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Proyectos Destacados
-- [🎚️ Controlador MIDI con fader motorizado (Arduino)](URL_DE_TU_REPOSITORIO)
+- [🎚️ Controlador MIDI con fader motorizado (Arduino)](https://github.com/sudonautilus71/MidiFaderMotorizado)
 
 ---
 
