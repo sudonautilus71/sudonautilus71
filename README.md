@@ -19,8 +19,7 @@
 
 ### 📫 Cómo contactarme
 - ✉️ [sudonautilus71@gmail.com]
-- 🌐 [Tu sitio web o redes sociales si tienes]
-- <!-- Esto es un comentario que no se verá en el renderizado del README -->
+- <!-- - 🌐 [Tu sitio web o redes sociales si tienes]Esto es un comentario que no se verá en el renderizado del README -->
 
 ---
 
